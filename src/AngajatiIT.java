@@ -1,0 +1,1 @@
+public class AngajatiIT extends Angajat implements Statut_Angajat{
